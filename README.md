@@ -1,5 +1,6 @@
 # CalliGAN - Style and structure-aware Chinese Calligraphy Generator
-CalliGAN - Tensorflow 2 Implementation (AI for Content Creation Workshop CVPR 2020)    
+> CalliGAN - Tensorflow 2 Implementation (AI for Content Creation Workshop CVPR 2020)    
+
 ![output](./output.png)
 
 ## Intruduction
