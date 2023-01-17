@@ -4,7 +4,7 @@
 ![output](./output.png)
 
 ## Intruduction
-This is the implementation of paper "CalliGAN - Style and structure-aware Chinese Calligraphy Generator" accepted by AI for Content Creation Workshop CVPR 2020.
+This is the implementation of paper "CalliGAN - Style and structure-aware Chinese Calligraphy Generator" accepted by AI for Content Creation Workshop CVPR 2020.    
 The purpose of this paper is to generate Chinese calligraphy characters.
 
 ## Environments
